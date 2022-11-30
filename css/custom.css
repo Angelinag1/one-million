@@ -57,7 +57,7 @@ ul li {
 #menu ul li a:hover {
   color: #f5f5f5;
 }
-a:active /* Quand le visiteur clique sur le lien */
+#menu ul li a:active /* Quand le visiteur clique sur le lien */
 {
 color: #FFF;
 }
