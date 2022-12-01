@@ -352,6 +352,12 @@ footer .container-footer img {
 }
 
 @media screen and (max-width: 991px) and (min-width: 768px) {
+  /* logo */
+  #logo {
+    float: left;
+    margin-left: 10%;
+  }
+
   #home .container h1 {
     font-size: 40px;
   }
