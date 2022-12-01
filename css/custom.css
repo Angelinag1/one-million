@@ -311,9 +311,14 @@ footer .container-footer img {
   .title {
     width: 650px;
   }
+  #home h1 {
+    font-size: 45px;
+  }
+  
   #home button {
     font-size: 35px;
   }
+
 
   #who p {
     width: 80%;
@@ -348,7 +353,7 @@ footer .container-footer img {
 
 @media screen and (max-width: 991px) and (min-width: 768px) {
   #home .container h1 {
-    font-size: 45px;
+    font-size: 40px;
   }
   #home .container p {
     margin-top: 40px;
@@ -448,7 +453,7 @@ footer .container-footer img {
   }
 
   #home .container h1 {
-    font-size: 30px;
+    font-size: 35px;
     max-width: 365px;
     margin-top: auto;
   }
